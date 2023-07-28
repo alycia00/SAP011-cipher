@@ -1,0 +1,86 @@
+@font-face {
+  font-family: another typewriter;
+  font-style: normal;
+  font-weight: normal;
+  src: local(another typewriter), url(./fonte/atwriter.ttf);
+}
+
+*{
+font-family: another typewriter;
+
+}
+
+
+body {
+  background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210505/pngtree-old-paper-with-cracks-and-dirty-spots-image_706097.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+/* caixa principal com todo conteudo*/
+.container {
+  max-width: 500px;
+  max-height: 650px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: rgb(206, 168, 97);
+  border: 1px solid #ccc;
+  box-shadow: 0 0 200px rgba(117, 68, 21, 0.938);
+  gap: 50%;
+  border: outset;
+  border-color:rgb(105, 51, 4); ;
+}
+
+
+h1, h2 {
+ text-align: center;
+}
+
+
+/* box para escrever e o de resposta*/
+#originalText, #resultText {
+background-color: rgba(80, 37, 12, 0.726);
+box-shadow: 0 0 10px;
+resize: none;
+border: outset;
+border-color:rgb(105, 51, 4); ;
+}
+
+
+
+/* "offset", "mensagem", "resultado"*/
+label {
+  display: block;
+  margin: 10px 0;
+  color: rgba(36, 19, 3, 0.938);
+  width: 75px;
+  padding: 5px;
+  box-shadow: 0 0 50px;
+  border: outset;
+  border-color:rgb(105, 51, 4); ;
+}
+
+button:hover{
+  color: rgb(105, 51, 4);
+}
+
+button {
+  font-size: large;
+  margin: 10px 0;
+  background-color: rgba(117, 68, 21, 0.938);
+  width: 150px;
+  height: 35px;
+  margin: 30px;
+  border-bottom: #ccc;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0 50px;
+  border: outset;
+  border-color:rgb(105, 51, 4); ;
+}
+
+:fullscreen{
+  color: black;
+}
+
