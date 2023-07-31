@@ -1,4 +1,4 @@
-# Cifra de César
+# <a href="http://localhost:3000/">Cifra de Cesár</a>
 
 A cifra de Cesár é um dos primeiros tipos de criptografias conhecidas na história.
 O imperador romano Júlio César utilizava essa cifra para enviar
@@ -20,23 +20,24 @@ Por exemplo se usarmos o deslocamento (_offset_) de 3 posições:
 
 
 ##
-## Para quê eu usaria O Cifra?
+# "Para quê eu usaria O <a href="http://localhost:3000/">Cifra de Cesár</a>?"
 
-* Criar senhas seguras para email.
-* Cifrar cartões de crédito.
+* Criar senhas seguras para email;
+* Cifrar cartões de crédito;
 * Ferramenta de mensagens internas de uma organização
-  em uma zona de conflito.
+  em uma zona de conflito;
 * Mensagens secretas para alguma pessoa.
 
+
 ##
-##
 
+# Como usar o <a href="http://localhost:3000/">Cifra de Cesár</a>?
 
-* **Criptografar uma mensagem**
+ _Para criptografar uma mensagem;_
 
-  - Inserir a mensagem (texto) que deseja criptografar; 
+  - Insirira a mensagem (texto) que deseja criptografar; 
       
-         Mensagem escolhida; "Oie vamos  criptografar".
+         Mensagem escolhida; "Oie vamos criptografar".
 
   - Escolher um número de deslocamento (_offset_) indicando quantas posições 
   você deseja que a cifra desloque cada caractere do alfabeto;
@@ -45,26 +46,26 @@ Por exemplo se usarmos o deslocamento (_offset_) de 3 posições:
 
   - Veja o resultado da mensagem criptografada;
 
-    ![Alt text](<Captura de tela 2023-07-27 123620.png>)
+## ![Alt text](<Captura de tela 2023-07-27 123620.png>)
 
-    ##
 
-* **Descriptografar uma mensagem**
+
+## _Descriptografar uma mensagem_
   - Inserir a mensagem (texto) que deseja descriptografar. 
 
   - Escolher um número de deslocamento (_offset_, que corresponde ao que usamos para criptografar) indicando quantas posições você deseja que a cifra desloque cada caractere do alfabeto.  
 
         Offset se mantem em 15 para obter o resultado.
 
-  - Veja o resultado da mensagem descriptografada.
-![Alt text](<Captura de tela 2023-07-27 123657.png>)
+  - Veja o resultado da mensagem descriptografada;
+## ![Alt text](<Captura de tela 2023-07-27 123657.png>)
 
 
 ##
 
-* Quem são os principais usuários do produto
+# Quem são os principais usuários do produto?
 
-* O Cifra de Cesár *(link)* é direcionado para aqueles;
+ ## O <a href="http://localhost:3000/">Cifra de Cesár</a> é direcionado para aqueles;
 * Que desejam compartilhar mensagens protegidas;
 
 * Gerar senhas seguras para;
@@ -83,19 +84,20 @@ Por exemplo se usarmos o deslocamento (_offset_) de 3 posições:
 
 O que consegui aprender?
 
-* Git/Github
-* Lógica
-* Manipulação de JS
+* Git/Github;
+* Lógica;
+* Manipulação de JS.
 
 ##
 Aprimorei: 
-* HTML
-* CSS
+* HTML;
+* CSS.
 
 ##
     Desenvolvido por: Alycia :)
 
-    LinkedIn: Alycia00
+ LinkedIn: <a href= https://www.linkedin.com/in/alyciag2004/>Alycia00</a>
+ 
 
 
 
