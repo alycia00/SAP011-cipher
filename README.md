@@ -76,8 +76,7 @@ Por exemplo se usarmos o deslocamento (_offset_) de 3 posições:
 
 
 ##
-
-    O Cifra de Cesár com offset de até 25 letras, torna a comunição mais dificil de ser descoberta para aqueles que não tem acesso. E tendo a capacidade de descriptografar qualquer mensagem (sendo ela criptografada com as regras da cifra de Cesár).
+_O Cifra de Cesár com offset de até 25 letras, torna a comunição mais dificil de ser descoberta para aqueles que não tem acesso. E tendo a capacidade de descriptografar qualquer mensagem (sendo ela criptografada com as regras da cifra de Cesár)._
 
     
  ##
@@ -96,8 +95,8 @@ Aprimorei:
 ##
     Desenvolvido por: Alycia :)
 
- LinkedIn: <a href= https://www.linkedin.com/in/alyciag2004/>Alycia00</a>
- 
+ LinkedIn: <a href= https://www.linkedin.com/in/alyciag2004>Alycia00</a>
+
 
 
 
