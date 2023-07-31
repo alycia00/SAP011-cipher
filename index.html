@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Cifra de César</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" type="imagex/png" href="https://cdn-icons-png.flaticon.com/512/1792/1792163.png">
+</head>
+
+    <body>
+        <div class="container">
+            <h1>Cifra de César</h1>
+            <h2>transforme sua mensagem em códigos</h2>
+            <label for="shift">Offset:</label>
+                <div class="passo">
+                        <input type="range" id ="shift" min ="1" max="25" value="10"
+                        oninput="this.nextElementSibling.value = this.value">
+                        <output>10</output>
+                </div>
+                
+            <label for="originalText">Mensagem:</label>
+            <textarea id="originalText" rows="5" cols="50" placeholder="Digite aqui..."></textarea>
+            <label for="resultText">Resultado:</label>
+            <textarea id="resultText" rows="5" cols="50" readonly></textarea>
+            <button id="botaoencryp">Criptografe</button>
+            <button id="botaodescrypt">Descriptografe</button>
+        </div>
+
+    <script src="index.js" type="module"></script>
+    
+    </body>
+</html>
